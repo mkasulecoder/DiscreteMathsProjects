@@ -1,2 +1,3 @@
-# DiscreteMathsProjects
-This Git repository features a collection of projects that delve into various key concepts in Discrete Mathematics, including Set Theory, Logical Statements, Proof by Induction, and Recursion. These projects are implemented in Java, showcasing practical applications of the theoretical concepts learned in Discrete Math. 
+# Discrete Math Java Projects: 
+### Exploring Set Theory, Logic, Proof by Induction, and Recursion.
+This Git repository features a collection of projects that delve into various key concepts in Discrete Mathematics, including Set Theory, Logical Statements, Proof by Induction, and Recursion. These projects are implemented in Java, showcasing practical applications of the theoretical concepts learned in Discrete Math. Whether you're a student looking to sharpen your skills or a programmer seeking to deepen your understanding of mathematical principles, this repository provides a rich set of examples and exercises to explore. 
